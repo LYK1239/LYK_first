@@ -43,7 +43,7 @@ class CFRPApp(QWidget):
         """
         初始化界面
         """
-        self.setWindowTitle("CFRP-钢界面性能预测系统")
+        self.setWindowTitle("CFRP-钢界面黏结性能预测系统")
         
         #设置窗口图标
         self.setWindowIcon(QIcon("icon.png"))  
